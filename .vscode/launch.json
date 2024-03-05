@@ -9,6 +9,7 @@
             "request": "launch",
             "name": "Open index.html",
             "file": "d:\\document\\code\\FE\\index.html"
+            // "file": "/Users/liqunwu/Documents/FE/index.html"
         }
     ]
 }
